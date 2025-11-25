@@ -64,7 +64,7 @@ README.md	Project summary
 <img width="1354" height="751" alt="superstore" src="https://github.com/user-attachments/assets/3dbbf8fa-1db5-4e2a-ac52-64834075d22c" />
 
 
-()
+(https://github.com/sachinade607-tech/Superstore-Task-7.git)
 
 💡 Future Enhancements
 
