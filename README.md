@@ -61,8 +61,8 @@ File	Description
 dataset.csv / excel	Raw dataset
 README.md	Project summary
 🔗 Power BI Report:
+<img width="1354" height="751" alt="superstore" src="https://github.com/user-attachments/assets/3dbbf8fa-1db5-4e2a-ac52-64834075d22c" />
 
-<img width="1354" height="751" alt="superstore" src="https://github.com/user-attachments/assets/42a39231-6056-4ac2-9ac8-0c3bf154351a" /
 
 ()
 
