@@ -5,9 +5,6 @@ Super Store Sales Dashboard – Power BI
 This project focuses on analyzing sales performance of a Super Store across the United States. The dashboard provides a comprehensive view of key business metrics including sales revenue, profit, quantity sold, regional performance, customer segments, shipping modes, and product categories.
 It is designed for business users to quickly identify trends, high-performing areas, and opportunities for improvement.
 
-
-<img width="1354" height="751" alt="superstore" src="https://github.com/user-attachments/assets/42a39231-6056-4ac2-9ac8-0c3bf154351a" />
-
 🚀 Key Insights
 
 Total Sales: 445K
@@ -63,7 +60,9 @@ File	Description
 .pbix	Power BI Dashboard file
 dataset.csv / excel	Raw dataset
 README.md	Project summary
-🔗 Power BI Report
+🔗 Power BI Report:
+
+<img width="1354" height="751" alt="superstore" src="https://github.com/user-attachments/assets/42a39231-6056-4ac2-9ac8-0c3bf154351a" /
 
 ()
 
